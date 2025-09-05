@@ -1,4 +1,4 @@
-# GDNevnik — dnevnik građevinskih radova (Windows)
+# Gradjevinski dnevnik — aplikacija GDNevnik (Windows)
 - 📄 **PDF za štampu / slanje** – jednim klikom, idealno za e-mail, Viber, WhatsApp…
 - 🗓️ **Evidencija po datumu** – fajl se automatski zove `dd.mm.yy.pdf`
 - ♻️ **Pamti unose** – izvođač, investitor, adrese i drugo ostaju zapamćeni
